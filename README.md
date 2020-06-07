@@ -1,2 +1,2 @@
-# GL_blog
+# FridayBlog
 Welcome to my personal blog.
